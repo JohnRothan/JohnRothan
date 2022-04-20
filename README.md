@@ -2,6 +2,10 @@
 
 <br />
 
+![](https://img.shields.io/github/followers/johnrothan?style=social)
+
+![](https://img.shields.io/github/stars/johnrothan?style=social)
+
 **About Me**
 
 - 🔭 I’m currently studying at [Jiangsu University](htttps://www.ujs.edu.cn)
@@ -23,7 +27,7 @@
 <img src="https://img.shields.io/badge/-Python-563D7C?style=flat-square&logo=python"/>  
 </p>
 
-<h2 align="center">Platform Active <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">Active Platform<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Kaggle-430098?style=flat-square&logo=kaggle"/>
 <img src="https://img.shields.io/badge/-LeetCode-374738?style=flat-square&logo=leetcode"/>  
@@ -35,8 +39,24 @@
 
 <br />
 
-| <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrothan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnrothan&theme=github" > | <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnrothan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrothan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnrothan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnrothan&theme=github" height="230px">
 
+<a href="https://twitter.com/johnrothan">
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="./assets/twitter.svg" />
+</a>
+
+<a href="https://space.bilibili.com/477271515">
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="./assets/bilibili.svg" />
+</a>
+
+<a href="https://www.kaggle.com/rothanjohn">
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="./assets/kaggle.svg" />
+</a>
+
+<a href="https://steamcommunity.com/profiles/76561199004498334/">
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="./assets/steam.svg" />
+</a>
 
