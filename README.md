@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zlq.sokedev.cn"><img width="80%" src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://zlq.sokedev.cn"><img width="80%" src="https://cdn.jsdelivr.net/gh/johnrothan/img01/readme-header.png" /></a></p>
 
 <br />
 
@@ -45,18 +45,18 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnrothan&theme=github" height="230px">
 
 <a href="https://twitter.com/johnrothan">
-  <img align="right" alt="John Rothan | Twitter" width="21px" src="./assets/twitter.svg" />
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/johnrothan/img01/twitter.svg" />
 </a>
 
 <a href="https://space.bilibili.com/477271515">
-  <img align="right" alt="John Rothan | Twitter" width="21px" src="./assets/bilibili.svg" />
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/johnrothan/img01/bilibili.svg" />
 </a>
 
 <a href="https://www.kaggle.com/rothanjohn">
-  <img align="right" alt="John Rothan | Twitter" width="21px" src="./assets/kaggle.svg" />
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/johnrothan/img01/kaggle.svg" />
 </a>
 
 <a href="https://steamcommunity.com/profiles/76561199004498334/">
-  <img align="right" alt="John Rothan | Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/johnrothan/img01/twitter.svg" />
+  <img align="right" alt="John Rothan | Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/johnrothan/img01/steam.svg" />
 </a>
 ![](https://cdn.jsdelivr.net/gh/johnrothan/img01/twitter.svg)
