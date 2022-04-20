@@ -59,4 +59,3 @@
 <a href="https://steamcommunity.com/profiles/76561199004498334/">
   <img align="right" alt="John Rothan | Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/johnrothan/img01/steam.svg" />
 </a>
-![](https://cdn.jsdelivr.net/gh/johnrothan/img01/twitter.svg)
