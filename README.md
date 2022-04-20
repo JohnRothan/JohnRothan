@@ -2,9 +2,9 @@
 
 <br />
 
-About Me
+**About Me**
 
-- 🔭 I’m currently studying at Jiangsu University
+- 🔭 I’m currently studying at [Jiangsu University](htttps://www.ujs.edu.cn)
 - 🌱 I’m  preparing 2023 Postgraduate Entrance Examination in CN
 - 🤔 I enjoy open source and do amazing thing
 - 💬 Ask me about anything I could help
@@ -23,8 +23,6 @@ About Me
 <img src="https://img.shields.io/badge/-Python-563D7C?style=flat-square&logo=python"/>  
 </p>
 
-<br  />
-
 <h2 align="center">Platform Active <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Kaggle-430098?style=flat-square&logo=kaggle"/>
@@ -36,3 +34,9 @@ About Me
 </p>
 
 <br />
+
+| <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrothan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnrothan&theme=github" > | <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnrothan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+
