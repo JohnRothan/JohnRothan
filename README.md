@@ -39,7 +39,7 @@
 
 <br />
 
-| <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrothan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnrothan&&layout=compact&theme=github&hide_border=true" height="180px" /></a> |
+| <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrothan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JohnRothan's github stats" /></a> | <a href="https://github.com/johnrothan/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnrothan&layout=compact&theme=github&hide_border=true&show_icons=true&include_all_commits=true" height="180px" alt="JohnRothan's github top language"/></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnrothan&theme=github" height="230px">
