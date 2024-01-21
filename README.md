@@ -8,8 +8,7 @@
 
 **About Me**
 
-- 🔭 I’m currently studying at [Jiangsu University](htttps://www.ujs.edu.cn)
-- 🌱 I’m  preparing 2023 Postgraduate Entrance Examination in CN
+- 🔭 I’m studied at [Jiangsu University](htttps://www.ujs.edu.cn) from 2019 to 2023.
 - 🤔 I enjoy open source and do amazing thing
 - 💬 Ask me about anything I could help
 - 😄 Study Travel Music Code Language Game
